@@ -1,0 +1,8 @@
+.container{
+  box-sizing: border-box;
+  background-color: pink;
+  border: black solid 5px;
+  display: flex;
+  flex-wrap: wrap;
+  gap:10px
+}
